@@ -1,2 +1,7 @@
 # MmmAlex172.github.io
-## I am Mohammad Hossein Dadkhah. I was born on January 31, 2006, and I'm from the county of Tirān in Esfahan province.
+#information
+- name : Mohamad Hosein Dadkhah
+- date of born : 2006 , January , 31
+- birthplace : the county of Tirān in Esfahan province
+#occupation
+## Currently, I am studying at university and do not have a specific job. However, I am eager to find a job to increase my personal experiences."If you would like to contact me, I have provided contact methods at the end of this page.
