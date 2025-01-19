@@ -11,7 +11,7 @@
 ### I was born into an normal family. When I was a child, I had a great interest in computers and robotics. At the age of twelve, I started working at the Aryana Robotics Institute. I studied there for a few months and in 2018, I achieved first place in the national weightlifting competition. In 2019, I secured second place in the same category. However, due to the coronavirus pandemic, I did not continue with robotics.After that, I worked for a few years in a computer shop.
 ## My city
 ### as you can see I born in Tiran . Tirān is a civilized and beautiful city. In my city, there are many historical buildings as well as a number of tourist attractions. If you want more information about my city, you can go to the link below :
-[publication](https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86)
+[Tiran](https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86)
 # Contact methods with me
 - telegram ID : #Mmd172
 - email : arexmmd.172@gmail.com
