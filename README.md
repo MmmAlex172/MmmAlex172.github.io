@@ -12,7 +12,7 @@
 
 ![more about me](image/ariana cup.jpg)
 
-However, due to the coronavirus pandemic, I did not continue with robotics.After that, I worked for a few years in a computer shop.
+### However, due to the coronavirus pandemic, I did not continue with robotics.After that, I worked for a few years in a computer shop.
 ## My City
 ### as you can see I born in Tiran . Tirān is a civilized and beautiful city. In my city, there are many historical buildings as well as a number of tourist attractions. If you want more information about my city, you can go to the link below :
 [Tiran](https://fa.wikipedia.org/wiki/%D8%AA%DB%8C%D8%B1%D8%A7%D9%86)
